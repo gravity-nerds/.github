@@ -1,2 +1,3 @@
-# hi
-we make gravity and stuff
+# Nerds
+
+This is going to end badly isnt it
